@@ -23,7 +23,7 @@
       <img height="200" alt="Avatar photo of Hussein Kanaan" src="https://github.com/hussienK/hussienk/blob/main/assets/me.png" alt="Avatar photo of KK10">
   </div>
   <div align=center>
-      <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com/?lines=I'm+Hussein+Kanaan;Backend+Software+Developer+And+Data;CS+Bachelors+And+42+Beirut+Core;Seeking+Opportunities+To+learn" alt="Typing SVG" /></a>
+      <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com/?lines=I'm+Hussein+Kanaan;Backend+Software+Developer+And+Data;CS+Bachelors+And+42+Beirut+Core;Seeking+Opportunities+To+Learn" alt="Typing SVG" /></a>
   </div>
 </div>
 
